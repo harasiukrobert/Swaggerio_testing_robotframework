@@ -1,0 +1,18 @@
+{
+  "id": 293721,
+  "category": {
+    "id": 2,
+    "name": "Africa"
+  },
+  "name": "Lion",
+  "photoUrls": [
+    "img"
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Africa"
+    }
+  ],
+  "status": "sold"
+}
